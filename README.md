@@ -1,5 +1,5 @@
 <h1 align="left">
-  Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"/>, I'm Paulo Farias
+  Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"/> I'm Paulo Farias
 </h1>
 
 - 🎓 Computer Science Bachelor
