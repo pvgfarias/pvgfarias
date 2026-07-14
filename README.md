@@ -26,6 +26,8 @@
 <img src="https://img.shields.io/badge/React-05122A?logo=react"/>
 <img src="https://img.shields.io/badge/NextJS-05122A?logo=nextdotjs"/>
 <img src="https://img.shields.io/badge/VueJS-05122A?logo=vuedotjs"/>
+<img src="https://img.shields.io/docker/v/pvgfarias/pvgfarias"/>
+
 
 </div>
 
