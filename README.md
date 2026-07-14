@@ -32,7 +32,7 @@
 
 <a href="https://www.linkedin.com/in/pvgfarias/
   " target="_blank">
-  <img src="https://img.shields.io/badge/BeatrizNeaime-05122A?logo=linkedin"/>
+  <img src="https://img.shields.io/badge/pvgfarias-05122A?logo=linkedin"/>
 </a>
 <!--
 **pvgfarias/pvgfarias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
