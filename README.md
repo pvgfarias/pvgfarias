@@ -9,7 +9,7 @@
 
 - 🚀 Currently looking for work.
 
-- 🌐 More at: [linkedin](https://www.linkedin.com/in/pvgfarias/)
+- 🌐 More at: [Paulo Farias Portfolio](https://paulofarias.vercel.app/)
 
 <br>
 
