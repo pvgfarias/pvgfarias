@@ -5,7 +5,7 @@
 - 🎓 Computer Science Bachelor
 - 🎓 Master in Computer Systems 
 
-- 💻 FullStack Web Developer
+- 💻 Data Analyst
 
 - 🚀 Currently looking for work.
 
@@ -18,17 +18,11 @@
 </p>
 
 <div style="display: flex; gap: 5px">
-<img src="https://img.shields.io/badge/HTML5-05122A?logo=html5"/>
-<img src="https://img.shields.io/badge/CSS3-05122A?logo=css3"/>
-<img src="https://img.shields.io/badge/JavaScript-05122A?logo=javascript"/>
-<img src="https://img.shields.io/badge/TypeScript-05122A?logo=typescript"/>
-<img src="https://img.shields.io/badge/NodeJS-05122A?logo=nodedotjs"/>
-<img src="https://img.shields.io/badge/React-05122A?logo=react"/>
-<img src="https://img.shields.io/badge/NextJS-05122A?logo=nextdotjs"/>
-<img src="https://img.shields.io/badge/VueJS-05122A?logo=vuedotjs"/>
-<img src="https://img.shields.io/badge/Docker-05122A?logo=docker"/>
-
-
+<img src="https://img.shields.io/badge/Python-05122A?logo=python"/>
+<img src="https://img.shields.io/badge/SQL-05122A?logo=postgresql"/>
+<img src="https://img.shields.io/badge/R-05122A?logo=r"/>
+<img src="https://img.shields.io/badge/Power%20BI-05122A?logo=powerbi"/>
+<img src="https://img.shields.io/badge/Tableau-05122A?logo=tableau"/>
 </div>
 
 <h3>
